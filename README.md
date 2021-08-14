@@ -1,8 +1,7 @@
 ### Hi there 👋
 \
 My name is Irsyad Nurilhaq from Indonesia.\
-I've been working as Software Engineer since 2018 and currently working as Frontend Engineer at [Maingame.com](https://www.maingame.com/)\
-:hammer_and_pick: Mainly working with Javascript. Currently learning React Native and all frontend stack.
+
 
 
 
